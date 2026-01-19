@@ -1,3 +1,8 @@
+#map {
+  width: 100%;
+  height: 100vh;
+  max-width: 100%;
+}
 
         #map {
             background-color: #ffffff
@@ -199,4 +204,5 @@
         }
         .css_Entidadesrurales_2 {
             text-shadow: ;
+
         }
